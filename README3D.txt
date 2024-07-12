@@ -1,0 +1,1 @@
+El ejecutable no requiere de tener python o sus librerías instaladas. 
